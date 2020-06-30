@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6CC92EE2-C97E-2137-C111-F092707B90B5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MenuDirector.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MenuDirector.cs" Line="9" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FPS" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fc03976e-3e21-4dc6-bcb6-8f835c54b97e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
